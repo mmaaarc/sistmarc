@@ -29,7 +29,7 @@ extra_css:
  - css/styles.css
 
 nav: 
-- Sprint 1:
+- Index:
     - as.md
     - llicenciament.md
     - comandes.md
