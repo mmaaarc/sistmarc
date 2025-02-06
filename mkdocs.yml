@@ -29,8 +29,8 @@ extra_css:
  - css/styles.css
 
 nav: 
-- Index:
-    - as.md
+- Sprint 1:
+    - sprint1.md
     - llicenciament.md
     - comandes.md
     - instalacio.md
